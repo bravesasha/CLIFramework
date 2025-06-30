@@ -6,7 +6,7 @@ CLIFramework
 [![Latest Unstable Version](https://poser.pugx.org/corneltek/cliframework/v/unstable.svg)](https://packagist.org/packages/corneltek/cliframework) 
 [![Total Downloads](https://poser.pugx.org/corneltek/cliframework/downloads.svg)](https://packagist.org/packages/corneltek/cliframework) 
 [![Monthly Downloads](https://poser.pugx.org/corneltek/cliframework/d/monthly)](https://packagist.org/packages/corneltek/cliframework)
-[![License](https://poser.pugx.org/corneltek/cliframework/license.svg)](https://packagist.org/packages/corneltek/cliframework)
+[![License](https://poser.pugx.org/corneltek/cliframework/license.svg)](https://github.com/c9s/CLIFramework/blob/master/LICENSE)
 
 
 CLIFramework is a command-line application framework, for building flexiable, simple command-line applications.
